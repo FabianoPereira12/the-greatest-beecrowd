@@ -12,7 +12,7 @@ Input Samples	Output Samples
 
 public class theGreatest {
     public static void main(String[] args) {
-      
+      int first, second, third;
       System.out.println("Hello World");
     }
   }
